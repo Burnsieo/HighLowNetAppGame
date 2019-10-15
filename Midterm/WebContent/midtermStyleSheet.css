@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+h1, h2, h3 {
+	font-family: georgia;
+	text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
+
+body {
+	font-family: georgia;
+  border: 3px solid red;
+  text-align: center;
+  background-color: aquamarine;
+  background-repeat: no-repeat;
+  color: black;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+table, tr, td, th {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid red;
+  border-collapse: collapse;
+}
+
+form {
+	font-family: georgia;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+footer {
+	padding-top: 15px;
+	font-family: georgia;
+	color: black;
+	text-align: center;
+}
+
+input {
+	padding-top: 5px;
+}
+
+img {
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.die {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px; 
+}
+
+#images{
+    text-align:center;
+}
+
+#link {
+	text-align: center;
+}
